@@ -1,4 +1,0 @@
-let prix = 80;
-let quantite = 2;
-let total= prix*quantite;
-console.log("total:",total);
